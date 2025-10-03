@@ -1,0 +1,28 @@
+.dairy {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.dairy h2{
+    width: 100%;
+    text-align: center;
+}
+
+.dairy img{
+    width: 200px;
+    border-radius: 8%;
+    border: 1px solid #e0e0e0;
+}
+
+.dairy img:hover{
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.2);
+}
+
+.dairy a{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}

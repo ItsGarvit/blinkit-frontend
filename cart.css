@@ -1,0 +1,14 @@
+body {
+    background-color:peachpuff;
+}
+
+.empty {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.empty h1 {
+    text-shadow: 5px 5px 5px black;
+    font-size: 100px;
+}
